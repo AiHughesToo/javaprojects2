@@ -1,0 +1,12 @@
+67.87, 78.09,  Subtotal of items is: $145.96
+Tax: $8.7576
+Your total bill is: $154.7176
+
+6.0,  Subtotal of items is: $6.0
+Tax: $0.36
+Your total bill is: $6.36
+
+34.54, 23.43,  Subtotal of items is: $57.97
+Tax: $3.47
+Your total bill is: $61.44
+

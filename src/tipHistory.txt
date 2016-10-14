@@ -1,0 +1,6 @@
+12.0 at 0.1% is $1.2000000000000002, your total bill with tip is13.2
+34.46 at 0.5% is $17, your total bill with tip is51.46
+34.46 at 0.5% is $1, your total bill with tip is35.46
+43.65 at 0.1% is $0, your total bill with tip is43.65
+67.98 at 0.1% is $7, your total bill with tip is74.98
+45.54 at 0.1% is $4.55, your total bill with tip is50.09
